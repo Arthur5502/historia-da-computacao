@@ -1,1 +1,1 @@
-# historia-da-computacao
+# computer-history-education
